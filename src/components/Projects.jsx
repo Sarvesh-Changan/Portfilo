@@ -42,7 +42,7 @@ const Projects = () => {
                     </span>
                 ))}
                 <div className="flex flex-wrap items-center">
-                <p className="mr-2 mt-4 max-w-20 rounded bg-neutral-900 px-2 py-1 text-sm font-medium text-purple-800">
+                <p className="mr-2 mt-4 max-w-24 rounded bg-neutral-900 px-2 py-1 text-sm font-medium text-purple-800">
                   <a href={project.ViewLink} target="_blank">View Live</a>
                 </p>
                 <p className="mr-2 mt-4 max-w-26 rounded bg-neutral-900 px-2 py-1 text-sm font-medium text-purple-800">
