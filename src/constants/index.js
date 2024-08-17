@@ -53,8 +53,8 @@ export const PROJECTS = [
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
     technologies: ["React.js", "Framer Motion", "Tailwind CSS"],
-    ViewLink: '',
-    githubLink: '',
+    ViewLink: 'https://portfilo-blue.vercel.app',
+    githubLink: 'https://github.com/Sarvesh-Changan/Portfilo',
   },
   {
     title: "Ecommerce Website",
