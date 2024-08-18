@@ -4,11 +4,11 @@ This portfolio is a cutting-edge web application built with React.js, Framer Mot
 
 ## Image 
 
-<a href='https://portfilo-blue.vercel.app'><img src='portfolio.png' /></a>
+<a target='_blank' href='https://portfilo-blue.vercel.app'><img src='portfolio.png' /></a>
 
 ## Live Demo
 
-<a href='https://portfilo-blue.vercel.app'>View Live</a>
+<a target='_blank' href='https://portfilo-blue.vercel.app'>View Live</a>
 
 ## Features
 
