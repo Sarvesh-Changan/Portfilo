@@ -39,15 +39,6 @@ export const PROJECTS = [
     githubLink: 'https://github.com/Sarvesh-Changan/Fitness-app',
   },
   {
-    title: "AI Trip Planner",
-    image: project2,
-    description:
-      "A React-based application that leverages AI to provide personalized hotel recommendations and curated travel itineraries. Users can discover the best places to stay and visit.",
-    technologies: ["React.js", "Tailwind CSS", "Gemini AI", "Firebase"],
-    ViewLink: 'https://trip-planner-ai-six.vercel.app',
-    githubLink: 'https://github.com/Sarvesh-Changan/trip-planner-ai',
-  },
-  {
     title: "Portfolio Website",
     image: project3,
     description:
