@@ -48,6 +48,15 @@ export const PROJECTS = [
     githubLink: 'https://github.com/Sarvesh-Changan/Portfilo',
   },
   {
+    title: "Career Guide",
+    image: project3,
+    description:
+      "Career Guide is a web application dedicated to empowering aspiring developers with personalized career guidance. It offers tailored learning paths, tutorials, and resources to help users master coding skills and successfully launch their tech careers.",
+    technologies: ["React.js", "Tailwind CSS", "Framer Motion", "Auth0"],
+    ViewLink: 'https://career-guidance-ten.vercel.app',
+    githubLink: 'https://github.com/Sarvesh-Changan/Career-Guidance',
+  },
+  {
     title: "Ecommerce Website",
     image: project4,
     description:
